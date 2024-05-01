@@ -196,10 +196,10 @@ function getData()
             PROXY_URL=${SITES[$index]}
             ;;
         3)
-            PROXY_URL="https://imeizi.me"
+            PROXY_URL="https://38i8.com"
             ;;
         4)
-            PROXY_URL="https://bing.imeizi.me"
+            PROXY_URL="https://wallhaven.cc"
             ;;
         5)
             read -p " 请输入反代站点(以http或者https开头)：" PROXY_URL
